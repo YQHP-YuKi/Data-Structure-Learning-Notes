@@ -1,0 +1,2 @@
+# This is my data structure node
+## It is wirtten by Java.If you want to know more detail about data structure learning,you can see my blog [iamyqhp](http://iamyqhp.com/index.php/tag/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/) Maybe it has some bug,hope you can tell me,thanks (oﾟ▽ﾟ)o  
