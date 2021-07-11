@@ -1,7 +1,5 @@
 package sort;
 
-import com.sun.org.apache.bcel.internal.generic.ARRAYLENGTH;
-import com.sun.org.apache.bcel.internal.generic.VariableLengthInstruction;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;

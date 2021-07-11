@@ -1,6 +1,5 @@
 package priority;
 
-import com.sun.java.swing.plaf.windows.WindowsTableHeaderUI;
 
 /**
  * @author YQHP-YuKi
